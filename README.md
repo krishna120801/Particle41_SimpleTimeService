@@ -63,5 +63,6 @@ docker pull ksahu5505/simpletimeservice
 docker run -d -p 8080:8080 --name container_name ksahu5505/simpletimeservice
 ```
 ---
-Once the application run into machine we can test it by hitting below link
-http://localhost:8080
+Once the application is running on the machine, it can be tested by accessing the following link:
+
+`http://localhost:8080`
